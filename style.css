@@ -35,6 +35,10 @@ img{
   text-align:center;
 }
 
+.aligncenter {
+    text-align: center;
+}
+
 p{
   color:black;
   width:500px;
