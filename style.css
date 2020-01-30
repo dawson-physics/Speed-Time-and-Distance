@@ -12,60 +12,21 @@ text-align:center;
 
 .v{
   color:white;
-  left:auto;
-  align-self:auto;
   width:500px;
   font-size:15px;
 font-family:cursive;
 }
-.vd{
-  left:auto;
-  width:500px;
-}
-.vp{
-  align-self:auto;
-  margin-left:auto;
-  margin-right:auto;
-  display:block;
-}
 .b{
-  right:auto;
-  align-self:auto;
   width:500px;
   font-size:15px;
-  float:left;
   font-family:cursive;
 }
-.bd{
-  left:auto;
-  width:500px;
-  float:right;
-}
-.bp{
-  align-self:auto;
-  margin-left:auto;
-  margin-right:auto;
-  display:block;
-}
 .a{
-  align-self:auto;
   width:500px;
   font-size:15px;
   color:aquamarine;
   font-family:cursive;
 }
-.ad{
-  left:auto;
-  width:500px;
-  
-}
-.ap{
-  align-self:auto;
-  margin-left:auto;
-  margin-right:auto;
-  display:block;
-}
-
 h1{
   color:red;
 text-align:center;
