@@ -30,22 +30,14 @@ li{
 }
 
 .aligncenter {
-    text-align:right;
+    text-align:center;
 }
 
 p{
   color:black;
   width:500px;
   font-size:20px;
-font-family:Arial;
-}
-
-ol{
-  background-color:dimgrey;
-  font-style:italic;
-}
-
-hr{
   border-color:gold;
-  border-width:1.5px
+  border-width:0.5px;
+font-family:Fantasy;
 }
