@@ -30,9 +30,10 @@ li{
 }
 
 .aligncenter {
-    text-align:right;
-  border-color:black;
-  border-width:0.5px
+text-align:center;
+width:100%;
+display:block;
+margin:auto;
 }
 
 p{
